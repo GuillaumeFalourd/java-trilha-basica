@@ -162,4 +162,4 @@ A criação deve popular o cadastro de um cliente e inserir ele na estrutura. A 
 
 Crie uma branch chamada feature/basico/desafio2 e coloque o desenvolvimento do desafio nela.
 
-Como entrega dessa atividade, adicione o link dessa branch na ISSUE que foi aberta no desafio 1.
+Como entrega dessa atividade, adicione o link dessa branch na ISSUE que foi aberta no Desafio 1 do nível Básico.
