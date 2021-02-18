@@ -8,6 +8,6 @@ A Marvel disponibiliza uma API gratuito em https://developer.marvel.com onde é 
 
 Durante os desafios, irá desenvolver o Back-End para uma loja de revistas da Marvel, usando essa API.
 
-- [Nível básico](ref)
-- [Nível 1](ref)
-- [Nível 2](ref)
+- [Nível básico](https://github.com/GuillaumeFalourd/java-backend-trail/blob/main/PT/basico.md)
+- [Nível 1](https://github.com/GuillaumeFalourd/java-backend-trail/blob/main/PT/nivel1.md)
+- [Nível 2](https://github.com/GuillaumeFalourd/java-backend-trail/blob/main/PT/nivel2.md)
