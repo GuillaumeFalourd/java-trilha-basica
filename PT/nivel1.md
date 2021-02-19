@@ -74,6 +74,7 @@ Referências em inglês:
 
 Referências em português:
 - https://www.devmedia.com.br/curso/o-que-e-junit/2075
+- https://www.devmedia.com.br/junit-tutorial/1432
 
 ## Logs
 
