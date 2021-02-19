@@ -43,9 +43,12 @@ Nos anexos há tutorial de Hibernate e JPA.
 Referências em inglês:
 - https://www.tutorialspoint.com/jpa/index.htm
 - https://www.tutorialspoint.com/hibernate/index.htm
+- https://amigoscode.com/p/spring-data-jpa
+- https://www.baeldung.com/hibernate-identifiers
 
 Referências em português:
 - https://www.devmedia.com.br/guia/hibernate/38312
+- https://www.devmedia.com.br/hibernate-validator-validando-dados-no-back-end-com-anotacoes/37979
 
 ## Integração
 
