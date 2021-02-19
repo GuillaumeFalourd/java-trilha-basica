@@ -20,6 +20,7 @@ Referências em inglês:
 - https://www.baeldung.com/rest-with-spring-series
 - https://www.baeldung.com/persistence-with-spring-series
 - https://kotlinlang.org/docs/jvm-spring-boot-restful.html
+- https://www.udemy.com/course/spring-framework-5-beginner-to-guru/
 
 Referências em português:
 - https://www.devmedia.com.br/curso/curso-spring/2316
