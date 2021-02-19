@@ -109,6 +109,7 @@ Referências em inglês:
 - https://www.learnsqlonline.org/
 - https://www.tutorialspoint.com/sql/index.htm
 - https://docs.oracle.com/javase/tutorial/jdbc/index.html
+- https://medium.com/@s.brianryu/how-to-crud-in-sql-basic-sql-to-know-f8a0a486d41b
 
 Referências em português:
 - https://www.devmedia.com.br/guia/guia-completo-de-sql/38314
