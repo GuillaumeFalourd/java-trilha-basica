@@ -135,14 +135,13 @@ Para um sistema Back-End ser usado, ele precisa ser acessado através da rede. P
 
 A biblioteca do Java oferece os Servlets como mecanismo básico para construção de programas usando HTTP.
 
-Nos anexos há tutoriais e cursos sobre HTTP, Servlets e REST.
+Nos anexos há tutoriais e cursos sobre HTTP e Servlets.
 
 Referências em inglês:
 - https://www.tutorialspoint.com/http/index.htm
 - https://www.udemy.com/course/http-hypertext-transfer-protocol/
 - https://www.tutorialspoint.com/servlets/index.htm
 - https://kotlinlang.org/docs/server-overview.html
-- https://www.linkedin.com/pulse/step-by-step-configuring-rest-request-spring-based-java-alexandre/?trackingId=gTWN4oW2QK0o6hXJri9sDQ%3D%3D
 
 ## DESAFIO 1: Crie um repositório para seu projeto
 
