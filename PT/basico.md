@@ -43,27 +43,15 @@ Referências em português:
 - https://www.devmedia.com.br/tratando-excecoes-em-java/25514
 - https://www.devmedia.com.br/usando-generics-em-java/28981
 
-## Um pouco mais de Kotlin
+## Beans
 
-Depois do básico da linguagem, tem 6 funcionalidades do Kotlin que são fundamentais:
+Java Beans é um padrão do Java para construção de componentes reutilizáveis que é importante conhecer.
 
-1) Cast - conversão de tipos
-2) Anotações - extensões declarativas do programa
-3) Exceções - fluxo de controle para tratamento de erros
-4) Programação Genérica - mecanismos para reutilizar código para vários tipos
-5) Programação Funcional - mecanismos para tratar funções como dados
-6) Coleções - biblioteca com estrutura de dados tradicionais
+Seguem algumas referências para entender mais a respeito.
 
-Java Beans é um padrão do Java para construção de componentes reutilizáveis que é importante conhecer também.
-
-Nos anexos tem a referência do Kotlin que trabalha bem essas funcionalidades, foque nas seções referentes a elas (cast, anotações e exceções ficam em outros, genéricos tem o link direto). 
-
-O material da Oracle está anexo sobre Beans.
-
-Referências em inglês:
-- https://kotlinlang.org/docs/home.html
-- https://kotlinlang.org/docs/generics.html
-- https://docs.oracle.com/javase/tutorial/javabeans/writing/index.html
+Referências em português:
+- https://www.devmedia.com.br/introducao-aos-javabeans/8621
+- https://docs.jboss.org/weld/reference/1.1.5.Final/pt-BR/html/intro.html
 
 ## Gerenciador de dependências
 
