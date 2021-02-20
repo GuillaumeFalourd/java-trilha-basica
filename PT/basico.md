@@ -43,23 +43,6 @@ Referências em português:
 - https://www.devmedia.com.br/tratando-excecoes-em-java/25514
 - https://www.devmedia.com.br/usando-generics-em-java/28981
 
-## Primeiros passos em Kotlin
-
-Kotlin é uma linguagem de programação de uso geral, multiplataforma, estaticamente tipada e com inferência de tipo. Ele foi projetado para interoperar totalmente com Java mas a inferência de tipo permite que sua sintaxe seja mais concisa. O Kotlin visa principalmente a JVM, mas também compila para JavaScript ou código nativo (via LLVM).
-
-Se você ainda não conhece Kotlin, é legal passar por alguns tutoriais para se familiarizar com a linguagem.
-
-Nos links abaixo encontrará um guia rápido com a sintaxe básica, um tutorial interativo e a documentação oficial da JetBrains.
-
-Referências em inglês:
-- https://play.kotlinlang.org/koans/overview
-- https://kotlinlang.org/docs/basic-syntax.html
-- https://kotlinlang.org/docs/basic-types.html
-- https://kotlinlang.org/docs/classes.html
-
-Referências em português:
-- https://medium.com/android-dev-br/kotlin-primeiros-passos-b9035259e63a
-
 ## Um pouco mais de Kotlin
 
 Depois do básico da linguagem, tem 6 funcionalidades do Kotlin que são fundamentais:
