@@ -23,9 +23,11 @@ Referências em inglês:
 - https://www.udemy.com/course/spring-framework-5-beginner-to-guru/
 
 Referências em português:
+- https://www.devmedia.com.br/exemplo/como-comecar-com-spring/73
 - https://www.devmedia.com.br/curso/curso-spring/2316
 - https://www.devmedia.com.br/curso/hello-world-com-spring-boot/2327
 - https://www.devmedia.com.br/guia/rest-e-java/36819
+- https://becode.com.br/o-que-e-api-rest-e-restful/
 - https://www.udemy.com/course/restful-apis/
 - https://desenvolvimentoparaweb.com/miscelanea/api-restful-melhores-praticas-parte-1/
 - https://desenvolvimentoparaweb.com/miscelanea/api-restful-melhores-praticas-parte-2/
