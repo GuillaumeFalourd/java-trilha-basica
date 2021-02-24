@@ -43,6 +43,13 @@ Referências em português:
 - https://www.devmedia.com.br/tratando-excecoes-em-java/25514
 - https://www.devmedia.com.br/usando-generics-em-java/28981
 
+
+## Aprofundando Java
+
+Não precisa se importar com os conceitos mais complexos no momento, mas é sempre bom saber onde procurar quando precisar.
+
+Esse site em inglês [Geeks For Geeks](https://www.geeksforgeeks.org/java/) traz conceitos básicos até mais avançados e pode ser útil para entender o que significam alguns termos que poderão precisar entender mais para frente.
+
 ## Beans
 
 Java Beans é um padrão do Java para construção de componentes reutilizáveis que é importante conhecer.
