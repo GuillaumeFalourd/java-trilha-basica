@@ -95,7 +95,7 @@ Referências em inglês:
 Referências em português:
 - https://www.devmedia.com.br/introducao-ao-log4j/28602
 
-## DESAFIO 1 -Implementar Spring MVC substituido o servlet
+## DESAFIO 1 - Implementar Spring MVC substituido o servlet
 
 O Spring é um dos principais frameworks para Java, com ele o projeto poderá ter um melhor controle de injeção de dependências, além de usá-lo para expor sua API.
 
