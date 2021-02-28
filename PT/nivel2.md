@@ -11,6 +11,16 @@ Referências em inglês:
 - https://spring.io/guides/gs/multi-module/
 - https://maven.apache.org/guides/mini/guide-multiple-modules.html
 
+## SOA
+
+Arquitetura orientada a serviços (SOA) é um tipo de design de software que torna os componentes reutilizáveis usando interfaces de serviços com uma linguagem de comunicação comum em uma rede. ... Esses serviços podem ser acessados remotamente e é possível interagir com eles e atualizá-los de maneira independente.
+
+Referências em português:
+- https://www.treinaweb.com.br/blog/voce-sabe-o-que-e-arquitetura-orientada-a-servicos-soa/
+- https://www.opus-software.com.br/o-que-e-soa-e-quais-os-beneficios/
+- https://www.devmedia.com.br/vantagens-e-desvantagens-de-soa/27437
+- https://transformacaodigital.com/tecnologia-da-informacao/desvendando-a-soa-arquitetura-orientada-a-servicos/
+
 ## Logs
 
 Log4j é um biblioteca de logs, mas existem outras e elas não seguem a mesma API. Isso faz com que trocar de biblioteca fique díficil. Para simplificar isso, existe o SLF4J, que fornece uma interface padronizada para várias bibliotecas de logs e é muito adotado hoje.
