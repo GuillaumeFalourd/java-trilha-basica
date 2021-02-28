@@ -75,6 +75,15 @@ Referências em inglês:
 Referências em inglês:
 - https://www.devmedia.com.br/introducao-ao-maven/25128
 
+## SQL
+
+SQL é uma linguagem padrão para trabalhar com bancos de dados relacionais... A linguagem SQL é utilizada de maneira relativamente parecida entre os principais bancos de dados relacionais do mercado: Oracle, MySQL, MariaDB, PostgreSQL, Microsoft SQL Server, entre muitos outros.
+
+Referências em português:
+- https://www.devmedia.com.br/entedendo-a-linguagem-sql/7775
+- https://www.devmedia.com.br/guia/guia-completo-de-sql/38314
+- https://playcode.com.br/banco-de-dados/sql-banco-dados-iniciantes/
+
 ## Persistência com JDBC
 
 O Back-End é responsável por gerenciar os dados de um sistema. E vários desses dados precisam ficar guardados por tempo indefinido. Para garantir isso, é necessário usar mecanismos de persistência. Hoje o predominante é o uso de tecnologias de banco de dados, principalmente bancos relacionais baseados na linguagem SQL.
