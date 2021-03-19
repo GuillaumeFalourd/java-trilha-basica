@@ -11,5 +11,5 @@ Durante os desafios, irá desenvolver o Back-End para uma loja de revistas da Ma
 - [Nível básico](https://github.com/GuillaumeFalourd/java-backend-trail/blob/main/PT/basico.md)
 - [Nível 1](https://github.com/GuillaumeFalourd/java-backend-trail/blob/main/PT/nivel1.md)
 - [Nível 2](https://github.com/GuillaumeFalourd/java-backend-trail/blob/main/PT/nivel2.md)
-...
+
 - [Próximos passos](https://github.com/zup-academy/nosso-cartao-documentacao)
