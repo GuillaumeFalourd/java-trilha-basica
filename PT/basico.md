@@ -168,6 +168,6 @@ Um cliente deve ter cadastrado pelo menos os seguintes dados:
 
 **Como entrega dessa atividade, me envie o link do repositório criado (LinkedIn ou email).**
 
-### Bônus
+## Bônus
 
-Se achou esse segundo desafio fácil, você pode continuar melhorando essa implementação seguindo as sugestões deste [outro repositorio de treinamento](https://github.com/GuillaumeFalourd/java-training-api)
+Se achou esse segundo desafio fácil, você pode continuar melhorando essa implementação seguindo as sugestões deste [outro repositorio de treinamento](https://github.com/GuillaumeFalourd/java-training-api).
