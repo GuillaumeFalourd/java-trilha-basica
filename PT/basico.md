@@ -167,3 +167,7 @@ Um cliente deve ter cadastrado pelo menos os seguintes dados:
 - A deleção deve permitir retirar um cliente da estrutura pelo CPF dele.
 
 **Como entrega dessa atividade, me envie o link do repositório criado (LinkedIn ou email).**
+
+### Bônus
+
+Se achou esse segundo desafio fácil, você pode continuar melhorando essa implementação seguindo as sugestões deste [outro repositorio de treinamento](https://github.com/GuillaumeFalourd/java-training-api)
