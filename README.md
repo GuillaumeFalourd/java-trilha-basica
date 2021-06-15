@@ -1,4 +1,4 @@
-# java-backend-trail
+# Trilha Java
 
 Na pasta [Trilha Java Back-End](https://github.com/GuillaumeFalourd/java-backend-trail/tree/main/PT) deste repositório, você encontrará varias orientações de estudos da linguagem JAVA com desafios exponenciais para desenvolver de uma API do zero.
 
