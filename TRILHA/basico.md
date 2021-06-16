@@ -18,6 +18,7 @@ Referências em inglês:
 Referências em português:
 
 - https://www.caelum.com.br/apostila-java-orientacao-objetos/
+- https://www.zup.com.br/blog/java
 
 ## Um pouco mais de Java
 
