@@ -2,7 +2,9 @@
 
 Na pasta [TRILHA](https://github.com/GuillaumeFalourd/java-backend-trail/tree/main/TRILHA) deste repositório, você encontrará varias orientações de estudos da linguagem JAVA com desafios exponenciais para desenvolver de uma API do zero.
 
-Se já quiser por a mão na massa com um desafio do nivel **JUNIOR**, antes de tudo, pode seguir as sugestões deste [outro repositorio de treinamento](https://github.com/GuillaumeFalourd/java-training-api).
+## Outros desafios
+
+Se já quiser por a mão na massa com um desafio do nível **JUNIOR**, antes de tudo, pode seguir as sugestões deste [outro repositorio de treinamento](https://github.com/GuillaumeFalourd/java-training-api).
 
 ## Referências legais no Github
 
