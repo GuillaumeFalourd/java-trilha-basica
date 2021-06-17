@@ -2,7 +2,7 @@
 
 ## Spring
 
-Spring é uma família de frameworks qu#e auxiliam no desenvolvimento de aplicações web na JVM, principalmente Back-End.
+Spring é uma família de frameworks que auxiliam no desenvolvimento de aplicações web na JVM, principalmente Back-End.
 
 Os principais frameworks são:
 
@@ -10,6 +10,7 @@ Os principais frameworks são:
 2) Spring Boot - configuração da aplicação
 3) Spring MVC - exposição da aplicação via HTTP, muito usado para criação de APIs REST
 4) Spring Data - persistência de dados
+5) Spring Cloud - facilita na construção de sistemas em nuvem, além de oferecer vários recursos para o desenvolvimento
 
 Nos anexos há tutoriais desses frameworks e de REST.
 
@@ -33,6 +34,7 @@ Referências em português:
 - https://www.udemy.com/course/restful-apis/
 - https://desenvolvimentoparaweb.com/miscelanea/api-restful-melhores-praticas-parte-1/
 - https://desenvolvimentoparaweb.com/miscelanea/api-restful-melhores-praticas-parte-2/
+- https://www.devmedia.com.br/como-criar-sistemas-nas-nuvens-com-spring-cloud/32875
 
 ## Persistência
 
@@ -58,14 +60,14 @@ Referências em português:
 
 ## Integração
 
-Muitas vezes é necessário interagir com outros sistemas backend, que é conhecido como integração. O Spring oferece o RestTemplate para fazer isso com sistemas REST e a Netflix oferece o Feign. Essas duas soluções são as mais usados hoje.
+Muitas vezes é necessário interagir com outros sistemas backend, que é conhecido como integração. O Spring possui dois tipos de abordagens para fazer integrações REST: O RestTemplate e o OpenFeign. Essas duas soluções são muito utilizadas pelas empresas atualmente.
 
 Nos anexos tem um tutorial de cada.
 
 Referências em inglês:
 
 - https://spring.io/guides/gs/consuming-rest/
-- https://www.baeldung.com/intro-to-feign
+- https://www.baeldung.com/spring-cloud-openfeign
 
 Referências em português:
 
