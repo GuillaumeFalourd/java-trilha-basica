@@ -52,6 +52,7 @@ Referências em inglês:
 - https://www.tutorialspoint.com/hibernate/index.htm
 - https://amigoscode.com/p/spring-data-jpa
 - https://www.baeldung.com/hibernate-identifiers
+- https://github.com/amigoscode/spring-data-jpa-course
 
 Referências em português:
 
