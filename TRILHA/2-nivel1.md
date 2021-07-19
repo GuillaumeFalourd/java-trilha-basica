@@ -57,6 +57,7 @@ Referências em português:
 
 - https://www.devmedia.com.br/guia/hibernate/38312
 - https://www.devmedia.com.br/hibernate-validator-validando-dados-no-back-end-com-anotacoes/37979
+- https://ulyssesuchoa.medium.com/spring-data-jpa-445dbfbb70f0
 
 ## Integração
 
