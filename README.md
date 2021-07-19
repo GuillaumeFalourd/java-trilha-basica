@@ -14,3 +14,5 @@ Seguem alguns deles:
 - [Spring-Boot](https://github.com/spring-projects/spring-boot)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 - [SouJava](https://github.com/soujava)
+- [Curso Java](https://github.com/cod3rcursos/curso-java)
+- [Awesome Java](https://github.com/akullpp/awesome-java)
