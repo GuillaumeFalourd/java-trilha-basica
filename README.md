@@ -2,7 +2,7 @@
 
 Na pasta [TRILHA](https://github.com/GuillaumeFalourd/java-backend-trail/tree/main/TRILHA) deste repositório, você encontrará varias orientações de estudos da linguagem JAVA com desafios exponenciais para desenvolver de uma API do zero.
 
-Sugestão de leitura antes de começar: [Preparo para ser um(a) melhor estudante](https://github.com/zup-academy/nosso-cartao-documentacao/tree/master/seja-um(a)-melhor-estudante#preparo-para-ser-uma-bomboa-estudante)
+👉 Sugestão de leitura antes de começar: [Preparo para ser um(a) melhor estudante](https://github.com/zup-academy/nosso-cartao-documentacao/tree/master/seja-um(a)-melhor-estudante#preparo-para-ser-uma-bomboa-estudante) (também tem um vídeo a respeito disso, pelo Alberto Souza, [aqui](https://www.youtube.com/watch?v=06DmQMNKi7M&ab_channel=ZUP)).
 
 ## Outros desafios
 
